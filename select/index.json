@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Boy",
+  "base_artist": "Reol",
+  "createdAt": "2026-02-27T09:22:20.450240Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Big Boy Toys",
+      "artist": "Aaron Tippin",
+      "has_synced": true,
+      "path": "select/01_Big_Boy_Toys_Aaron_Tippin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Big Boy Toys (Album Version)",
+      "artist": "Aaron Tippin",
+      "has_synced": false,
+      "path": "select/02_Big_Boy_Toys_(Album_Version)_Aaron_Tippin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Come Back As A Country Boy",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/03_Come_Back_As_A_Country_Boy_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Come Back As A Country Boy",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/04_Come_Back_As_A_Country_Boy_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Country Boy (Smoke Free album version)",
+      "artist": "Aaron Lewis feat. George Jones, Chris Young & Charlie Daniels",
+      "has_synced": true,
+      "path": "select/05_Country_Boy_(Smoke_Free_album_version)_Aaron_Lewis_feat._George_Jones,_Chris_Young_&_Charlie_Daniels.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Country Boy (feat. Charlie Daniels, Chris Young, & George Jones)",
+      "artist": "Aaron Lewis",
+      "has_synced": true,
+      "path": "select/06_Country_Boy_(feat._Charlie_Daniels,_Chris_Young,_&_George_Jones)_Aaron_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Country Boy Do",
+      "artist": "Nelly feat. Tyler Hubbard",
+      "has_synced": true,
+      "path": "select/07_Country_Boy_Do_Nelly_feat._Tyler_Hubbard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Country Boy Do",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/08_Country_Boy_Do_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Boy",
+      "artist": "Elvie Shane",
+      "has_synced": true,
+      "path": "select/09_My_Boy_Elvie_Shane.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Boy",
+      "artist": "Elvie Shane",
+      "has_synced": true,
+      "path": "select/10_My_Boy_Elvie_Shane.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Drover's Boy",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/11_The_Drover's_Boy_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Boy Named Sue - Live",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/12_A_Boy_Named_Sue_-_Live_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Boy Named Sue (Live at San Quentin State Prison, San Quentin, CA  - February 1969)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/13_A_Boy_Named_Sue_(Live_at_San_Quentin_State_Prison,_San_Quentin,_CA_-_February_19_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Country Boy Can Survive",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": true,
+      "path": "select/14_A_Country_Boy_Can_Survive_Hank_Williams,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "All American Country Boy",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/15_All_American_Country_Boy_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Backwoods Boy",
+      "artist": "Josh Turner",
+      "has_synced": false,
+      "path": "select/16_Backwoods_Boy_Josh_Turner.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bad Boy",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/17_Bad_Boy_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boy",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_Boy_Reol.txt"
+    }
+  ]
+}
